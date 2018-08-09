@@ -43,3 +43,4 @@ python mydata2.py
 Then follow the training as described in runMe.sh
 Finally create the prediction:
 python submission.py
+
